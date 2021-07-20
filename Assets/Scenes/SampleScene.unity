@@ -349,7 +349,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1723176941617902747, guid: 418603e198d76f843818ddd961a8424d, type: 3}
       propertyPath: m_TagString
-      value: three
+      value: colorChangerThree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 418603e198d76f843818ddd961a8424d, type: 3}
@@ -1620,7 +1620,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1723176941617902747, guid: 418603e198d76f843818ddd961a8424d, type: 3}
       propertyPath: m_TagString
-      value: two
+      value: colorChangerTwo
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 418603e198d76f843818ddd961a8424d, type: 3}
@@ -1682,6 +1682,10 @@ PrefabInstance:
     - target: {fileID: 1723176941617902747, guid: 418603e198d76f843818ddd961a8424d, type: 3}
       propertyPath: m_Name
       value: ColorChanger
+      objectReference: {fileID: 0}
+    - target: {fileID: 1723176941617902747, guid: 418603e198d76f843818ddd961a8424d, type: 3}
+      propertyPath: m_TagString
+      value: colorChangerOne
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 418603e198d76f843818ddd961a8424d, type: 3}

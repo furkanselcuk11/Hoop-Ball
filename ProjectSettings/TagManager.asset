@@ -11,6 +11,9 @@ TagManager:
   - colorChanger
   - two
   - three
+  - colorChangerOne
+  - colorChangerTwo
+  - colorChangerThree
   layers:
   - Default
   - TransparentFX
